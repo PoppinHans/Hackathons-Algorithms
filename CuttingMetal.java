@@ -1,9 +1,13 @@
-package coursera;
+package JupiterHackathon;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-/* Given a collection of metal pieces, price of metal per unit length, and cost per cut.
+/* - Why to show this piece of code as a sample?
+ * - Because this is a simple problem, yet there are details that need to be handled properly.
+ * - In addition, this sample illustrates some basic linear optimization.
+ *
+ * Given a collection of metal pieces, price of metal per unit length, and cost per cut.
  * You want to cut each piece of metal to uniform length, and desert any metal of different length,
  * so that the profit is maximized. 
  * 
